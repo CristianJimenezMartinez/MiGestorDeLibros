@@ -1,4 +1,0 @@
-cat << EOF > .gitignore
-node_modules/
-.env
-EOF
